@@ -1,6 +1,6 @@
 # **[Django Theme MKit 2 PRO](https://appseed.us/product/material-kit2-pro/django/)**
 
-**Django** starter styled with **[Material Kit2 PRO]([Django Theme MKit 2 PRO](https://appseed.us/product/material-kit2-pro/django/))**, a premium `Boostrap 5` design from [Creative-Tim](https://bit.ly/3fKQZaL)
+**Django** starter styled with **[Material Kit2 PRO](https://appseed.us/product/material-kit2-pro/django/)**, a premium `Boostrap 5` design from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > 👉 **NOTE**: This product `requires a License` in order to access the theme:
